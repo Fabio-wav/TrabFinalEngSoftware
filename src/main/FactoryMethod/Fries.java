@@ -1,4 +1,4 @@
-package main.FactoryMethod.Item;
+package main.FactoryMethod;
 
 public class Fries extends OrderItem {
     @Override

@@ -1,6 +1,6 @@
-package main.FactoryMethod.Item;
+package main.FactoryMethod;
 
-public abstract class OrdemItem {
+public abstract class OrderItem {
     public abstract String getName();
     public abstract double getPrice();
 }

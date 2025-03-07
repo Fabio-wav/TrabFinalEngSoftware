@@ -1,4 +1,4 @@
-package main.FactoryMethod.OrderMenu;
+package main.FactoryMethod;
 
 
 public interface Menu {

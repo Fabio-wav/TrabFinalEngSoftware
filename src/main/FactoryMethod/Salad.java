@@ -1,6 +1,6 @@
-package main.FactoryMethod.Item;
+package main.FactoryMethod;
 
-public class Salad extends OrdemItem{
+public class Salad extends OrderItem {
     @Override
     public String getName() {
         return "Salada";
