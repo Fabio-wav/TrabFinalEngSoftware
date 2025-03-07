@@ -1,4 +1,4 @@
-package main.FactoryMethod;
+package main.FactoryMethod.OrderMenu;
 
 public class FastFoodMenu implements Menu {
     @Override

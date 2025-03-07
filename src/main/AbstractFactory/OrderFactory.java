@@ -1,6 +1,5 @@
 package main.AbstractFactory;
-import main.FactoryMethod.Menu;
-import main.FactoryMethod.Order;
+import main.FactoryMethod.OrderMenu.*;
 
 public interface OrderFactory {
     Order createOrder();

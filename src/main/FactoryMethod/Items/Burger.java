@@ -1,4 +1,4 @@
-package main.FactoryMethod;
+package main.FactoryMethod.Items;
 
 public class Burger extends OrderItem {
     @Override

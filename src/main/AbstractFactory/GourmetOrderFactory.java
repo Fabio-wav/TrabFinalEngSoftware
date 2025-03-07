@@ -1,9 +1,6 @@
 package main.AbstractFactory;
 
-import main.FactoryMethod.GourmetMenu;
-import main.FactoryMethod.GourmetOrder;
-import main.FactoryMethod.Menu;
-import main.FactoryMethod.Order;
+import main.FactoryMethod.OrderMenu.*;
 
 public class GourmetOrderFactory implements OrderFactory{
     @Override

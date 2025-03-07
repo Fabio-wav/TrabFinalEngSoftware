@@ -1,4 +1,7 @@
-package main.FactoryMethod;
+package main.FactoryMethod.OrderMenu;
+import main.FactoryMethod.Items.Burger;
+import main.FactoryMethod.Items.Fries;
+import main.FactoryMethod.Items.OrderItem;
 import main.Singleton.Logger;
 
 public class FastFoodOrder extends Order {

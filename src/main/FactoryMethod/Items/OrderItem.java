@@ -1,4 +1,4 @@
-package main.FactoryMethod;
+package main.FactoryMethod.Items;
 
 public abstract class OrderItem {
     public abstract String getName();
